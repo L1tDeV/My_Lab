@@ -56,3 +56,10 @@ $ grep -r "Linux" *
 
 ## Часть 3: Дополнительное задание
 Напишите команду, которая одновременно находит строки с запросами и исключает строки с кодом 200 (успешный доступ):
+
+## По итогам работы оформите отчет в файле Result.md
+
+## Дополнительные источники
+1. [Документация по grep на Linux.org](https://www.linux.org/docs/man1/grep.html)
+2. [Справочник GNU grep](https://www.gnu.org/software/grep/manual/grep.html)
+3. [Поиск строк и шаблонов с помощью grep](https://selectel.ru/blog/tutorials/grep-command-in-linux/)
