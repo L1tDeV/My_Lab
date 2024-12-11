@@ -56,6 +56,8 @@ comm -12 downloaded_files.txt available_files.txt
 ``` bash
 grep "GET /downloads/" access.log | grep -v " 200 "
 ```
+![image](https://github.com/user-attachments/assets/a7b5f248-4a05-40b8-8672-ea158d3ab450)
+
 
 ## Итоговый вывод
 1. **Подозрительные IP-адреса:**
